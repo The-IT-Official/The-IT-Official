@@ -12,12 +12,6 @@
   <em>AI Researcher · ECE @ UT Dallas (Fall '26) · Building toward a future as an AI Scientist</em>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-AI%20Safety%20%26%20Alignment-blueviolet?style=flat-square" />
-  <img src="https://img.shields.io/badge/Stack-PyTorch%20%7C%20Python%20%7C%20scikit--learn-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/Research-Deep%20Learning%20%7C%20CV-red?style=flat-square" />
-</p>
-
 ---
 
 ### 🧠 About Me
@@ -36,10 +30,6 @@ My long-term target: **Chief AI Scientist at Google (Switzerland)**. Everything 
 
 ### 🛠 Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,cpp,java,linux,git,vscode,github&theme=dark" />
-</p>
-
 ```text
 Languages    : Python · C++ · Java · HTML/CSS
 ML/AI        : PyTorch · NumPy · scikit-learn · Pandas
@@ -54,27 +44,6 @@ Currently    : DSA grind (LeetCode 150–200 target) · System Design · ML theo
 - Data structures & algorithms — prepping for **Google STEP 2026**
 - Deep learning theory (optimization, generalization, scaling laws)
 - Low-level systems: CUDA kernels, model quantization, edge inference
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=The-IT-Official&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-IT-Official&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=The-IT-Official&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=The-IT-Official&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/The-IT-Official/The-IT-Official/output/github-contribution-grid-snake-dark.svg" />
-</p>
 
 ---
 
