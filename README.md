@@ -1,5 +1,5 @@
 <p align="center">
-  <em>Deep Learning Researcher · ECE @ UT Dallas (Fall '26) · Aspiring Pre-training Engineer</em>
+  <em>Medical Imaging AI Researcher · ECE @ UT Dallas (Fall '26) · Aspiring AI Scientist</em>
 </p>
 
 ---
@@ -15,9 +15,11 @@ My long-term target: Pre-training LLMs, Deep Learning, Low-level hardware and pr
 ### Stack
 
 ```text
-Languages    : Python · C++ · Java · HTML/CSS
-ML/AI        : PyTorch · NumPy · scikit-learn · Pandas
-Systems      : Linux (Ubuntu) · Git · Conda · ROS
+Languages    : Python · Java · HTML/CSS · C++ · SQL
+ML/AI        : PyTorch · NumPy · scikit-learn · Pandas · LangChain · LangGraph · Groq
+Automation   : Selenium · pdfplumber · openpyxl · xml.etree · X12/EDI
+Cloud/Infra  : AWS S3 · Docker · Git · GitHub · Vercel · Ubuntu · Google Colab
+Backend/APIs : FastAPI · Flask · REST APIs · SFTP
 ```
 
 ---
